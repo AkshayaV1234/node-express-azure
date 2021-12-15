@@ -25,5 +25,5 @@ steps:
     includeRootFolder: false
 
 - task: PublishBuildArtifacts@1
-  displayName: 'Run a one-line script'
+  displayName: 'Publish artifacts:drop'
   

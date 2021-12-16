@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Windows Server 2019'
+  vmImage: 'ubuntu-latest'
 
 steps:
 - task: NodeTool@0
